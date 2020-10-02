@@ -95,13 +95,13 @@ def d(X_list, T, signals, c_list, green_light,Q, lanes_list,test):
 			elif lane == "D":
 				g += 6
 			elif lane == "E":
-				g5 = signals[4]
+				g5 = signals[5]
 				g += g5
 			elif lane == "F":
-				g5 = signals[4]
+				g5 = signals[5]
 				g += g5
 			elif lane == "G":
-				g5 = signals[4]
+				g5 = signals[5]
 				g += g5
 			elif lane == "H":
 				g -= 5
